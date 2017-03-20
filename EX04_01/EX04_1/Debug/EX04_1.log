@@ -1,0 +1,4 @@
+﻿  Source.cpp
+j:\cs 2\ex04\ex04_1\ex04_1\source.cpp(34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  EX04_1.vcxproj -> J:\CS 2\EX04\EX04_1\Debug\EX04_1.exe
+  EX04_1.vcxproj -> J:\CS 2\EX04\EX04_1\Debug\EX04_1.pdb (Partial PDB)
